@@ -13,7 +13,7 @@ h2 {
   font-size: 42px;
 }
 
-.link1 {
+.link {
   color: aquamarine;
   font-size: 16px;
 }
@@ -21,4 +21,8 @@ h2 {
 p {
   color: Gray;
   font-size: 21px;
+}
+
+.footer {
+  text-align: right;
 }
